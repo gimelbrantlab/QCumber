@@ -1,5 +1,5 @@
 
-# QCumber (v0.3.2)
+# QCumber (v0.3.2) - obsolete (replaced with renamed version Qllelic, due to name conflict with already existing QCumber software)
 
 **QCumber** is a set of R tools for quantification of allele-specific expression. It relies on two or more technical replicate RNA-seq libraries to calculate Quality Correction Constant (QCC) and use it to correct for allelic imbalance overdipserion.
 **QCumber** analysis starts with a table of allelic counts per gene, calculated from RNA-seq data using any analysis pipeline such as **[ASEReadCounter*](https://github.com/gimelbrantlab/ASEReadCounter_star)**.
